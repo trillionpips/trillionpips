@@ -1,0 +1,54 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0a0f2c;
+  color: #fff;
+}
+.hero {
+  background: linear-gradient(135deg, #1a237e, #512da8);
+  text-align: center;
+  padding: 60px 20px;
+}
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+section {
+  padding: 40px 20px;
+}
+h2 {
+  color: #82b1ff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.chart-container iframe,
+.news iframe {
+  margin-bottom: 20px;
+}
+.education ul {
+  max-width: 800px;
+  margin: 0 auto;
+  list-style: square;
+}
+.contact {
+  text-align: center;
+}
+.contact input,
+.contact button {
+  padding: 10px;
+  margin: 10px;
+}
+footer {
+  background: #1a237e;
+  text-align: center;
+  padding: 20px;
+}
+a {
+  color: #bb86fc;
+}
